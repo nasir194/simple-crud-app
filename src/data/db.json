@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "first_name": "Flore",
+      "last_name": "Fidelli",
+      "email": "ffidelli0@cam.ac.uk",
+      "gender": "Female",
+      "age": 62,
+      "phone_number": "386-185-5598",
+      "address": "19th Floor"
+    },
+    {
+      "id": "2",
+      "first_name": "Gena",
+      "last_name": "Ashcroft",
+      "email": "gashcroft1@storify.com",
+      "gender": "Female",
+      "age": 22,
+      "phone_number": "344-184-5401",
+      "address": "Apt 676"
+    },
+    {
+      "id": "3",
+      "first_name": "Sella",
+      "last_name": "Lawlee",
+      "email": "slawlee2@php.net",
+      "gender": "Female",
+      "age": 42,
+      "phone_number": "763-655-6703",
+      "address": "Room 1800"
+    },
+    {
+      "id": "4",
+      "first_name": "Mitchell",
+      "last_name": "Pinkett",
+      "email": "mpinkett3@sourceforge.net",
+      "gender": "Male",
+      "age": 96,
+      "phone_number": "333-890-8734",
+      "address": "Apt 1494"
+    },
+    {
+      "id": "5",
+      "first_name": "Nancy",
+      "last_name": "Giacomucci",
+      "email": "ngiacomucci4@slideshare.net",
+      "gender": "Female",
+      "age": 30,
+      "phone_number": "375-285-5357",
+      "address": "PO Box 63866"
+    },
+    {
+      "id": "6",
+      "first_name": "Harbert",
+      "last_name": "Firle",
+      "email": "hfirle5@diigo.com",
+      "gender": "Male",
+      "age": 32,
+      "phone_number": "779-979-9582",
+      "address": "12th Floor"
+    },
+    {
+      "id": "7",
+      "first_name": "Veda",
+      "last_name": "Woodwin",
+      "email": "vwoodwin6@sciencedaily.com",
+      "gender": "Female",
+      "age": 84,
+      "phone_number": "526-409-1237",
+      "address": "Apt 276"
+    },
+    {
+      "id": "8",
+      "first_name": "Ram",
+      "last_name": "Bedinn",
+      "email": "rbedinn7@oaic.gov.au",
+      "gender": "Male",
+      "age": 72,
+      "phone_number": "752-999-4330",
+      "address": "9th Floor"
+    },
+    {
+      "id": "9",
+      "first_name": "Shantee",
+      "last_name": "Trembley",
+      "email": "strembley8@mac.com",
+      "gender": "Female",
+      "age": 70,
+      "phone_number": "808-335-7711",
+      "address": "Apt 113"
+    },
+    {
+      "id": "10",
+      "first_name": "Nelle",
+      "last_name": "Deane",
+      "email": "ndeane9@wordpress.org",
+      "gender": "gender",
+      "age": 10,
+      "phone_number": "372-992-7128",
+      "address": "Room 697"
+    },
+    {
+      "id": "d9f3",
+      "first_name": "Abu",
+      "last_name": "Fattah",
+      "email": "abu2153@gmail.com",
+      "Age": "62",
+      "gender": "Male",
+      "phone_number": "55555666666"
+    }
+  ]
+}
